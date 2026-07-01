@@ -11,6 +11,7 @@ A collection of homework assignments completed for the CSE344 Systems Programmin
 | 3 | [Parking Lot Simulation with Semaphores](./hw3-semaphore-parking-lot) | POSIX threads (`pthread`), semaphores (`sem_t`), producer-consumer synchronization | C |
 | 4 | [Parallel Directory Copy Utility (MWCp)](./hw4-parallel-directory-copy) | Manager-worker pattern, bounded buffer, `pthread_mutex`, `pthread_cond`, `opendir`/`readdir` | C |
 | MT | [Concurrent File Access Server & Client (neHos)](./midterm-concurrent-file-server) | Multi-process server, named FIFOs, POSIX shared memory, semaphores, `fork`+`exec`+`tar`, signal handling | C |
+| 5 | [Parallel Directory Copy with Barriers (MWCp v2)](./hw5-parallel-copy-barrier) | `pthread_barrier_t`, condition variables (`pthread_cond`), manager-worker pattern (extended from HW4) | C |
 
 More assignments will be added here as they are organized.
 
