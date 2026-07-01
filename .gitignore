@@ -1,0 +1,12 @@
+# C build artifacts
+gtu
+*.o
+*.out
+
+# Log files
+*.log
+
+# OS / editor junk
+.DS_Store
+.vscode/
+.idea/
