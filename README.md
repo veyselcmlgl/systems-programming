@@ -7,6 +7,7 @@ A collection of homework assignments completed for the CSE344 Systems Programmin
 | # | Name | Topic | Language |
 |---|------|-------|----------|
 | 1 | [Student Grade Management System with Process Creation](./hw1-student-grade-management) | `fork()`, `wait()`, child processes, file I/O, logging | C |
+| 2 | [Two-Process IPC with Named Pipes (FIFOs)](./hw2-ipc-fifo-processes) | `mkfifo()`, `fork()`, `SIGCHLD`, `waitpid()`, named pipes, IPC | C |
 
 More assignments will be added here as they are organized.
 
